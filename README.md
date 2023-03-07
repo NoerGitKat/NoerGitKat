@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
 <h1 align="center">Hi 👋, I'm Noer</h1>
 <h3 align="center"><b>Frontend</b> Developer & <b>Education</b> Director</h3>
 
