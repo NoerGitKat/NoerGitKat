@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noer</h1>
-<h3 align="center"><b>Software</b> Engineer & <b>Instructional</b> Designer</h3>
+<h3 align="center"><b>Frontend</b> Engineer & <b>Instructional</b> Designer</h3>
 
 <br>
 
-<blockquote>All of technology is a means to an end. We are the end. And we just have to pay attention...</blockquote>
+<blockquote>Noer is a business-savvy software engineer, with a knack for education. As a result, he has spent the last 6 years helping underrepresented groups into high-quality tech jobs. You can often find him nerding out on cool ideas, in the hopes of leaving the world a better place than he found it.</blockquote>
 
 <br>
 
