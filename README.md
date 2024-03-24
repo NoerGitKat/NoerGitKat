@@ -3,7 +3,7 @@
 
 <br>
 
-<blockquote>Noer is a business-savvy software engineer, with a knack for education. As a result, he has spent the last 6 years helping underrepresented groups into high-quality tech jobs. You can often find him nerding out on cool ideas, in the hopes of leaving the world a better place than he found it.</blockquote>
+<blockquote>An experienced instructional designer and learning consultant, with a background in software engineering. Passionate about helping others get the most out of their learning using technology and qual/quant research. MBA Leadership & Management, MSc Educational Science & Technology.</blockquote>
 
 <br>
 
@@ -22,7 +22,7 @@
 <section style="margin-bottom: 1rem;">
   <h2 style="margin-bottom: 1rem;">🤝 Connect with me</h2>
   <aside>
-    <a href="https://www.linkedin.com/in/noer-paanakker-731284a1/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/noerpaanakker" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="Noer Paanakker" height="30" width="40" />
     </a>
